@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\DemoQuants.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\DemoQuants.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\DemoQuants.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\DemoQuants.pdb
+F:\Current Projects\Visual Studio 2008\Projects\Demo WCF\DemoQuants\DemoQuants\obj\Debug\DemoQuants.exe
+F:\Current Projects\Visual Studio 2008\Projects\Demo WCF\DemoQuants\DemoQuants\obj\Debug\DemoQuants.pdb
+F:\Current Projects\Visual Studio 2008\Projects\Demo WCF\DemoQuants\DemoQuants\obj\Debug\ResolveAssemblyReference.cache
+F:\Current Projects\Visual Studio 2008\Projects\Demo WCF\DemoQuants\DemoQuants\bin\Debug\DemoQuants.exe
+F:\Current Projects\Visual Studio 2008\Projects\Demo WCF\DemoQuants\DemoQuants\bin\Debug\DemoQuants.pdb
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\DemoQuants.exe
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\DemoQuants.pdb
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\obj\Debug\ResolveAssemblyReference.cache
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\DemoQuants.exe
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\DemoQuants.pdb
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\Bluebit.MatrixLibrary.dll
+F:\Current Projects\Visual Studio 2008\Projects\DemoQuants\DemoQuants\bin\Debug\Bluebit.MatrixLibrary.xml
